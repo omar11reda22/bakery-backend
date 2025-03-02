@@ -159,5 +159,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-For any inquiries, contact: **your.email@example.com**
+For any inquiries, contact: **omaraladeeb45@gmail.com**
 
